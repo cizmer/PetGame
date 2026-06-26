@@ -2,7 +2,8 @@
 Project for 2026 FBLA Introduction to Programming. A game where you take care of a bunny, dog, or cat
 
 # Installation or to play
-
+To play you can visit Roblox [here](https://www.roblox.com/games/111564614462123/Critter-Criteria) to play. If you want to check out/edit the code, download the rblx file in the repository to access the roblox studio file!
+To open the file, you must have Roblox Studio, the game engine used to program this project
 
 # Game
 <img width="1126" height="635" alt="image" src="https://github.com/user-attachments/assets/9cccdd1a-978b-48cf-823e-2d334b25fdf3" />
