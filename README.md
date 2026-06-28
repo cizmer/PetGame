@@ -6,7 +6,7 @@ To play you can visit Roblox [here](https://www.roblox.com/games/111564614462123
 To open the file, you must have Roblox Studio, the game engine used to program this project
 
 # Sources 
-All assets are built in Roblox's game engine, Roblox studio. All code, builds, and drawings are made by us.
+All assets are built in Roblox's game engine, Roblox studio. All code, builds, and drawings are made by us. The music in game is sourced from Roblox. 
 
 # Game
 <img width="1126" height="635" alt="image" src="https://github.com/user-attachments/assets/9cccdd1a-978b-48cf-823e-2d334b25fdf3" />
